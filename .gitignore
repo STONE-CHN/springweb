@@ -1,0 +1,22 @@
+*.class
+
+# IDEA
+.idea/
+*.iml
+
+# Eclipse
+build/
+.classpath
+.project
+.settings/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Mac
+.DS_Store
+
+# Generate
+target/
